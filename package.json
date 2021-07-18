@@ -1,0 +1,11 @@
+{
+  "name": "natsukibot",
+  "version": "1.0.0",
+  "description": "Music bot by Dr4gPi  :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
